@@ -25,7 +25,7 @@ Before starting, ensure you have:
 ## 1. Account Access & Authentication
 
 ### 1.1 Open Points Dashboard
-1. Navigate to the GenLayer points platform
+1. Navigate to the GenLayer points platform - https://points.genlayer.foundation?ref=9S5B2F2Z
 2. Click **Login / Get Started**
 3. Select **Connect Wallet**
 

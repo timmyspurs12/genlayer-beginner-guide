@@ -74,8 +74,8 @@ Ensure integrations are connected before attempting verification tasks.
 ### 4.1 Social Verification Tasks
 Typical actions include:
 
-- Joining Discord community
-- Following official social accounts
+- Joining Discord community  - https://discord.com/invite/qjCU4AWnKE
+- Following official social accounts - https://x.com/GenLayerFDN
 - Performing engagement actions
 
 **Verification Workflow**
